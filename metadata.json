@@ -1,0 +1,6 @@
+{
+  "name": "DebateMaster AI",
+  "description": "Powerful AI speech coach, speech generator, topic finder, and live debate battle referee in English & Hindi for public speakers of all ages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
